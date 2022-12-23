@@ -1,6 +1,9 @@
 # Xylophone_App_Flutter
 A xylophone app with dark and light mode
 
+
+## To run ,Install the apk provided
+------------------------------------------------------------
 <p align="center" width="100%">
 
 ## App Icon
